@@ -85,9 +85,3 @@ $HOME/.virtualenvs                  # pipenv(windows) 存储的 Python 依赖
 $HOME/.local/share/virtualenvs      # pipenv(unix) 存储的 Python 依赖
 ```
 如果需要清理这些文件，都需要手动删除。
-
-# Help 帮助信息
-
-更多信息请访问网站 [功夫核心库](https://libkungfu.cc) 及 [功夫量化](https://www.kungfu-trader.com)。
-
-微信公众号：功夫量化
